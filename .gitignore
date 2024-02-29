@@ -1,0 +1,20 @@
+# Compiled files
+target/
+
+# Rust/Cargo files
+Cargo.lock
+target/
+**/target/
+
+# Generated documentation
+doc/
+
+# Environment file
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Dependency directories
+vendor/
